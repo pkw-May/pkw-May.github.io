@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-template-js",
     "path": "/posts/일기",
-    "result": {"pageContext":{"currentCategory":"일기","categories":["All","TIL","일기","featured"],"edges":[{"node":{"id":"0af0e2ff-54f7-5c58-b1ca-4c537468f820","excerpt":"힘들다 후… 제발 되어라 이번엔 힘들다","fields":{"slug":"/gatsby-github-blog/"},"frontmatter":{"categories":"일기 featured","title":"모르지만 일단 시작한다","date":"January 24, 2022"}},"next":null,"previous":{"fields":{"slug":"/gatsby-starter-zoomkoding-introduction/"}}}]}},
+    "result": {"pageContext":{"currentCategory":"일기","categories":["All","TIL","일기","featured"],"edges":[{"node":{"id":"0102930e-0bf7-5183-aeb4-c8adb687a4cb","excerpt":"힘들다 후… 제발 되어라 이번엔 힘들다","fields":{"slug":"/gatsby-github-blog/220124_diary/"},"frontmatter":{"categories":"일기 featured","title":"모르지만 일단 시작한다","date":"January 24, 2022"}},"next":null,"previous":{"fields":{"slug":"/gatsby-starter-zoomkoding-introduction/220124_til/"}}}]}},
     "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
